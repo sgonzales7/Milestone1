@@ -1,0 +1,218 @@
+body{
+  background-color: #53507E;
+}
+
+#logo{
+  float:left;
+  height:37px;
+}
+
+head{
+  height: 37px;
+  width: 1100px;
+  margin-top: 30px;
+  align-items: center;
+  margin-bottom: 115px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #53507E;
+
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 12px;
+    color: #B1AEDE;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #53507E;
+    color: white;
+}
+
+section.aboutus{
+  width: 750px;
+  padding: 80px;
+  margin-top: 115px;
+  margin-bottom: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  box-shadow: 0 0 100px rgba(255, 255, 255, .75)
+}
+
+h1{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  font-size: 24px;
+  color: #FF8ED8 ;
+}
+
+p{
+  font-family: 'Roboto Slab', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #5C5C5C;
+  max-width: 480px;
+
+}
+
+section.Jebediah{
+  width: 750px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 180px;
+  padding-right: 80px;
+  position: relative;
+  margin-top: 115px;
+  margin-bottom: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  box-shadow: 0 0 100px rgba(255, 255, 255, .75)
+}
+
+#h1J{
+  display:inline;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #5C5C5C;
+}
+
+#h2J{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #FF8ED8;
+}
+
+#jebb{
+  width:208px;
+  position: absolute;
+  top: -40px;
+  left: -70px;
+  border: 20px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 50%;
+}
+
+section.Jezebelle{
+  width: 750px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 80px;
+  padding-right: 180px;
+  text-align: right;
+  position: relative;
+  margin-top: 115px;
+  margin-bottom: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  box-shadow: 0 0 100px rgba(255, 255, 255, .75)
+}
+
+#h1jez{
+  display:inline;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #5C5C5C;
+}
+
+#h2jez{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #FF8ED8;
+}
+
+#jez{
+  width:208px;
+  position: absolute;
+  top: -40px;
+  left: 850px;
+  border: 20px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 50%;
+}
+
+.footer{
+  margin-top: 100;
+  float: inherit;
+  height: 105px;
+  background-color: #403d65;
+  bottom: 0;
+  width: 100%;
+}
+
+.toprow{
+  width: 1100px;
+  height: 34px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.bottomrow{
+  height: 35px;
+  margin-top: 15px;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 600;
+  font-size: 12px;
+  color: #B1AEDE;
+  text-align:center;
+}
+
+.active{
+  color: white;
+  border-bottom: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #FF8ED8;
+}
+
+img.social{
+  width: 34px;
+  margin-left: 10px;
+  margin-right: 100px;
+  float: right;
+}
+
+img.social:hover{
+  opacity: 0.75;
+}
+
+#ul2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #53507E;
+
+}
+
+#footer1, #footer2, #footer3 {
+    float: left;
+}
